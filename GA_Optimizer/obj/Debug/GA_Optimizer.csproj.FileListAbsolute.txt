@@ -1,0 +1,10 @@
+C:\Users\Fatih\source\repos\GA_Optimizer\GA_Optimizer\obj\Debug\GA_Optimizer.csproj.AssemblyReference.cache
+C:\Users\Fatih\source\repos\GA_Optimizer\GA_Optimizer\obj\Debug\GA_Optimizer.Form1.resources
+C:\Users\Fatih\source\repos\GA_Optimizer\GA_Optimizer\obj\Debug\GA_Optimizer.Properties.Resources.resources
+C:\Users\Fatih\source\repos\GA_Optimizer\GA_Optimizer\obj\Debug\GA_Optimizer.csproj.GenerateResource.cache
+C:\Users\Fatih\source\repos\GA_Optimizer\GA_Optimizer\obj\Debug\GA_Optimizer.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\GA_Optimizer\GA_Optimizer\bin\Debug\GA_Optimizer.exe.config
+C:\Users\Fatih\source\repos\GA_Optimizer\GA_Optimizer\bin\Debug\GA_Optimizer.exe
+C:\Users\Fatih\source\repos\GA_Optimizer\GA_Optimizer\bin\Debug\GA_Optimizer.pdb
+C:\Users\Fatih\source\repos\GA_Optimizer\GA_Optimizer\obj\Debug\GA_Optimizer.exe
+C:\Users\Fatih\source\repos\GA_Optimizer\GA_Optimizer\obj\Debug\GA_Optimizer.pdb
