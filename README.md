@@ -1,9 +1,9 @@
-# GA_Optimizer
+# GA Optimizer
 
 ## Genetic Algorithm Optimizer
 
 Bu projede, Genetik Algoritma'nın tüm adımları C# programlama dili kullanılarak sıfırdan kodlandı.  
-Sürekli optimizasyon problemleri için reel kodlama yöntemiyle çözüm üretildi.  
+Sürekli optimizasyon problemleri için reel kodlama yöntemiyle çözüm üretildi.
 
 ### Özellikler:
 - Windows Form Arayüzü
